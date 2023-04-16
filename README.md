@@ -1,1 +1,1 @@
-Pemrograman Mobile Android Intent Aplikasi Pengiriman Menggunakan Bahasa Kotlin
+Pemrograman Mobile Android Intent Aplikasi Pengiriman Menggunakan Kotlin
