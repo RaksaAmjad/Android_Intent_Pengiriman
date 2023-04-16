@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">cob1</string>
+    <string-array name="tujuan">
+        <item>Makassar</item>
+        <item>Bone</item>
+        <item>Sinjai</item>
+        <item>Palopo</item>
+        <item>Barru</item>
+        <item>Bulukumba</item>
+        <item>Soppeng</item>
+        <item>Takalar</item>
+        <item>Enrekang</item>
+    </string-array>
+</resources>

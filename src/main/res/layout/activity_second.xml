@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AbsoluteLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".activity_second">
+
+    <TextView
+        android:id="@+id/editTextBayar"
+        android:layout_width="216dp"
+        android:layout_height="wrap_content"
+        android:layout_x="114dp"
+        android:layout_y="529dp" />
+
+    <TextView
+        android:id="@+id/txtBayar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="528dp"
+        android:text="Total Bayar"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="371dp" />
+
+    <TextView
+        android:id="@+id/editTextLayanan2"
+        android:layout_width="216dp"
+        android:layout_height="wrap_content"
+        android:layout_x="114dp"
+        android:layout_y="461dp" />
+
+    <TextView
+        android:id="@+id/txtLayanan2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="461dp"
+        android:text="Layanan"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="371dp" />
+
+    <TextView
+        android:id="@+id/editTextTujuan2"
+        android:layout_width="216dp"
+        android:layout_height="wrap_content"
+        android:layout_x="114dp"
+        android:layout_y="330dp" />
+
+    <TextView
+        android:id="@+id/txtBerat2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="395dp"
+        android:text="Berat"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="371dp" />
+
+    <TextView
+        android:id="@+id/editTextBerat2"
+        android:layout_width="216dp"
+        android:layout_height="wrap_content"
+        android:layout_x="114dp"
+        android:layout_y="394dp" />
+
+    <TextView
+        android:id="@+id/txtTujuan2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="331dp"
+        android:text="Tujuan"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="371dp" />
+
+    <TextView
+        android:id="@+id/editTextAlamat2"
+        android:layout_width="216dp"
+        android:layout_height="wrap_content"
+        android:layout_x="114dp"
+        android:layout_y="270dp" />
+
+    <TextView
+        android:id="@+id/editTextPenerima2"
+        android:layout_width="216dp"
+        android:layout_height="wrap_content"
+        android:layout_x="114dp"
+        android:layout_y="209dp" />
+
+    <TextView
+        android:id="@+id/editTextNama2"
+        android:layout_width="216dp"
+        android:layout_height="wrap_content"
+        android:layout_x="114dp"
+        android:layout_y="142dp" />
+
+    <TextView
+        android:id="@+id/judul4"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Bukti Pengiriman"
+        android:textAlignment="center"
+        android:textSize="25sp"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/txtResi2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="81dp"
+        android:text="No Resi"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="108dp" />
+
+    <TextView
+        android:id="@+id/txtNama2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="142dp"
+        android:text="Nama Pengirim"
+        tools:layout_editor_absoluteX="0dp"
+        tools:layout_editor_absoluteY="164dp" />
+
+    <TextView
+        android:id="@+id/txtPenerima2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="210dp"
+        android:text="Penerima"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="221dp" />
+
+    <TextView
+        android:id="@+id/txtAlamat2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_x="5dp"
+        android:layout_y="271dp"
+        android:text="Alamat"
+        tools:layout_editor_absoluteX="14dp"
+        tools:layout_editor_absoluteY="276dp" />
+
+    <TextView
+        android:id="@+id/editTextResi2"
+        android:layout_width="216dp"
+        android:layout_height="wrap_content"
+        android:layout_x="114dp"
+        android:layout_y="80dp" />
+
+</AbsoluteLayout>
